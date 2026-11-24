@@ -1,0 +1,6 @@
+{
+  "name": "Atinuke Luxury",
+  "description": "Statement wear, made to stand out. Handcrafted 2-piece sets, embroidered boubous, and bespoke fabrics tailored in Ilorin, Kwara State, Nigeria by Haleemah Aderonke.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
